@@ -3,4 +3,4 @@ numpy
 tensorflow
 scikit-learn==1.5.0
 openpyxl
-tensorflow-cpu==2.14.0
+tensorflow-cpu
